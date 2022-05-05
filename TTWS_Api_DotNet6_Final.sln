@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWS_Api_DotNet6_Final", "TTWS_Api_DotNet6_Final\TTWS_Api_DotNet6_Final.csproj", "{646373FA-5FE6-4318-9F75-B04569B2AFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646373FA-5FE6-4318-9F75-B04569B2AFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646373FA-5FE6-4318-9F75-B04569B2AFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646373FA-5FE6-4318-9F75-B04569B2AFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646373FA-5FE6-4318-9F75-B04569B2AFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC0A3C7-9688-478A-A185-10D365093406}
+	EndGlobalSection
+EndGlobal
