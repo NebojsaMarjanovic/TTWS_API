@@ -15,7 +15,7 @@ namespace TTWS_Api_DotNet6_Final.Controllers
         }
 
 
-        [HttpGet("{isin:regex(([[A-Z]]{{2}})([[A-Z0-9]]{{9}})([[0-9]]{{1}}))}")]        
+        [HttpGet("{isin}")]        
         public Task<string> GetSymbolByIsin(string isin)
         {
             return _symbol.GetSymbolByIsinService(isin);

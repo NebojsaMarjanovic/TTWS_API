@@ -1,4 +1,5 @@
 using TTWS_Api_DotNet6_Final;
+using TTWS_Api_DotNet6_Final.Middleware;
 using TTWS_Api_DotNet6_Final.Repository;
 using TTWS_Api_DotNet6_Final.Services;
 
@@ -10,6 +11,10 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<ValidationMiddleware>();
+builder.Services.AddScoped<TestMiddleware>();
+
 
 var env = builder.Environment.EnvironmentName;
 builder.Configuration.AddJsonFile($"appsettings{env}.json", true, false);
@@ -41,6 +46,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<ValidationMiddleware>();
+app.UseMiddleware<TestMiddleware>();
 
 app.UseAuthorization();
 
