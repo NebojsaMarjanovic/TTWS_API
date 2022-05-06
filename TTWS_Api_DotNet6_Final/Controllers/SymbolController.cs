@@ -14,12 +14,13 @@ namespace TTWS_Api_DotNet6_Final.Controllers
             _symbol= symbol;
         }
 
-        [HttpGet("{isin}")]
+
+        [HttpGet("{isin:regex(([[A-Z]]{{2}})([[A-Z0-9]]{{9}})([[0-9]]{{1}}))}")]        
         public Task<string> GetSymbolByIsin(string isin)
         {
-            if(!string.IsNullOrEmpty(isin) && char.IsLetter(isin[0]) && char.IsLetter(isin[1]) && char.IsNumber(isin[2]))
             return _symbol.GetSymbolByIsinService(isin);
-            else return Task.FromResult("Bad input parameter") ;
+
         }
     }
 }
+
