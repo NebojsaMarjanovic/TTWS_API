@@ -14,7 +14,7 @@ namespace TTWS_Api_DotNet6_Final.Services
         }
         public Task<string> GetSymbolByIsinService(string isin)
         {
-            return _repository.GetByIsin(_config.Server,_config.CustomerId, isin);
+            return _repository.GetByIsin(_config.CustomerId, isin);
         }
 
     }

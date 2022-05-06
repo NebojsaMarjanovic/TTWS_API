@@ -17,7 +17,9 @@ namespace TTWS_Api_DotNet6_Final.Controllers
         [HttpGet("{isin}")]
         public Task<string> GetSymbolByIsin(string isin)
         {
+            if(!string.IsNullOrEmpty(isin) && char.IsLetter(isin[0]) && char.IsLetter(isin[1]) && char.IsNumber(isin[2]))
             return _symbol.GetSymbolByIsinService(isin);
+            else return Task.FromResult("Bad input parameter") ;
         }
     }
 }

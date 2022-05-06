@@ -14,10 +14,18 @@ builder.Services.AddSwaggerGen();
 var env = builder.Environment.EnvironmentName;
 builder.Configuration.AddJsonFile($"appsettings{env}.json", true, false);
 
-builder.Services.Configure<TTWSConfiguration>(builder.Configuration.GetSection("TTWSConfiguration"));
+builder.Services.AddHttpClient<SymbolClient>((HttpClient client) =>
+{
+    string uri = builder.Configuration["TTWSConfiguration:Server"];
+    client.BaseAddress = new Uri(uri);
+});
 
-builder.Services.AddHttpClient<SymbolRepository>();
-builder.Services.AddScoped<ISymbolRepository,SymbolRepository>();
+builder.Services.Configure<TTWSConfiguration>(builder.Configuration.GetSection("TTWSConfiguration"));
+builder.Services.AddScoped<ISymbolRepository, SymbolRepository>();
+
+
+//builder.Services.AddHttpClient<SymbolRepository>();
+
 builder.Services.AddScoped<ISymbolService,SymbolService>();
 
 
