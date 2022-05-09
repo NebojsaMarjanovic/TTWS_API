@@ -2,6 +2,6 @@
 {
     public interface ISymbolRepository
     {
-        Task<string> GetByIsin(int id, string isin);
+        Task<string> GetByIsin(string isin);
     }
 }
