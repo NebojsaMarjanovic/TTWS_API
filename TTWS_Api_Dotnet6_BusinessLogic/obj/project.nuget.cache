@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NP7AysR9w2Oj5gkuh8in6gvf3G0gl7J05Vo94aAruBcsAXN6V+672xRpILHhHIKaGKZLcvBbkFqIz73Bey2yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_Dotnet6_BusinessLogic\\TTWS_Api_Dotnet6_BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

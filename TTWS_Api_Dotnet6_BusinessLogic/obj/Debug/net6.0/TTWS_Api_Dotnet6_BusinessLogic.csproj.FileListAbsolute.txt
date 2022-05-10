@@ -1,0 +1,12 @@
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\bin\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.deps.json
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\bin\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.dll
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\bin\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.pdb
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.AssemblyInfo.cs
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.dll
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\refint\TTWS_Api_Dotnet6_BusinessLogic.dll
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\TTWS_Api_Dotnet6_BusinessLogic.pdb
+C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_Dotnet6_BusinessLogic\obj\Debug\net6.0\ref\TTWS_Api_Dotnet6_BusinessLogic.dll
