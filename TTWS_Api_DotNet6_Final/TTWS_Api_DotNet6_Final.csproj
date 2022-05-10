@@ -7,13 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
     <PackageReference Include="Polly" Version="7.2.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\TTWS_Api_Dotnet6_BusinessLogic\TTWS_Api_Dotnet6_BusinessLogic.csproj" />
   </ItemGroup>
 
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
 </Project>

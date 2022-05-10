@@ -32,6 +32,7 @@ C:\Users\nebojsa.marjanovic\source\repos\TTWS_Api_DotNet6_Final\TTWS_Api_DotNet6
 C:\Users\nebojsa.marjanovic\source\repos\TTWS_Api_DotNet6_Final\TTWS_Api_DotNet6_Final\obj\Debug\net6.0\TTWS_Api_DotNet6_Final.pdb
 C:\Users\nebojsa.marjanovic\source\repos\TTWS_Api_DotNet6_Final\TTWS_Api_DotNet6_Final\obj\Debug\net6.0\TTWS_Api_DotNet6_Final.genruntimeconfig.cache
 C:\Users\nebojsa.marjanovic\source\repos\TTWS_Api_DotNet6_Final\TTWS_Api_DotNet6_Final\obj\Debug\net6.0\ref\TTWS_Api_DotNet6_Final.dll
+<<<<<<< HEAD
 C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_DotNet6_Final\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_DotNet6_Final\bin\Debug\net6.0\appsettings.json
 C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_DotNet6_Final\bin\Debug\net6.0\appsettingsDevelopment.Development.json
@@ -69,3 +70,5 @@ C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_DotNet6_Final\obj\D
 C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_DotNet6_Final\obj\Debug\net6.0\TTWS_Api_DotNet6_Final.genruntimeconfig.cache
 C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_DotNet6_Final\obj\Debug\net6.0\ref\TTWS_Api_DotNet6_Final.dll
 C:\Users\nebojsa.marjanovic\Desktop\TTWS_API-master\TTWS_Api_DotNet6_Final\bin\Debug\net6.0\Newtonsoft.Json.dll
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039

@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "UcCmpKhkD5O9qRnB0iuQJxC9f42wBdgiKy3MhfeyOvhJDY6oStvpYbPcEOXacau5wiLyry431ZTBCUk2WPtvvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj",
@@ -10,12 +11,24 @@
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+=======
+  "dgSpecHash": "DZyFfUO4X2HIaYTpfSYCto2ID8pGDO1dc8/CkTObcN31TsY3lte5XsndK8lJ54Jk6rUpg7ZmSiaGGvJEVkDWUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+=======
+    "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
   ],
   "logs": []
 }

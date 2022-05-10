@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_Dotnet6_BusinessLogic\\TTWS_Api_Dotnet6_BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_Dotnet6_BusinessLogic\\obj\\",
+=======
+    "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj",
+        "projectName": "TTWS_Api_DotNet6_Final",
+        "projectPath": "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj",
+        "packagesPath": "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\obj\\",
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +57,7 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.Extensions.Options": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -118,6 +133,8 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
             "Polly": {
               "target": "Package",
               "version": "[7.2.3, )"

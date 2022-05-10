@@ -13,6 +13,7 @@
           "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
@@ -53,6 +54,8 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
@@ -62,6 +65,7 @@
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         }
       },
+<<<<<<< HEAD
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -71,6 +75,8 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
       "Polly/7.2.3": {
         "type": "package",
         "compile": {
@@ -130,6 +136,7 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+<<<<<<< HEAD
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
@@ -156,6 +163,8 @@
         "runtime": {
           "bin/placeholder/TTWS_Api_Dotnet6_BusinessLogic.dll": {}
         }
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
       }
     }
   },
@@ -187,6 +196,7 @@
         "tools/netcoreapp2.1/GetDocument.Insider.runtimeconfig.json"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
       "sha512": "xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
       "type": "package",
@@ -258,6 +268,8 @@
         "useSharedDesignerContext.txt"
       ]
     },
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
     "Microsoft.OpenApi/1.2.3": {
       "sha512": "Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "type": "package",
@@ -275,6 +287,7 @@
         "microsoft.openapi.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Newtonsoft.Json/13.0.1": {
       "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
       "type": "package",
@@ -302,6 +315,8 @@
         "packageIcon.png"
       ]
     },
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
     "Polly/7.2.3": {
       "sha512": "DeCY0OFbNdNxsjntr1gTXHJ5pKUwYzp04Er2LLeN3g6pWhffsGuKVfMBLe1lw7x76HrPkLxKEFxBlpRxS2nDEQ==",
       "type": "package",
@@ -406,6 +421,7 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+<<<<<<< HEAD
     },
     "System.Runtime.CompilerServices.Unsafe/6.0.0": {
       "sha512": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
@@ -436,14 +452,21 @@
       "type": "project",
       "path": "../TTWS_Api_Dotnet6_BusinessLogic/TTWS_Api_Dotnet6_BusinessLogic.csproj",
       "msbuildProject": "../TTWS_Api_Dotnet6_BusinessLogic/TTWS_Api_Dotnet6_BusinessLogic.csproj"
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+<<<<<<< HEAD
       "Newtonsoft.Json >= 13.0.1",
       "Polly >= 7.2.3",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "TTWS_Api_Dotnet6_BusinessLogic >= 1.0.0"
+=======
+      "Polly >= 7.2.3",
+      "Swashbuckle.AspNetCore >= 6.2.3"
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
     ]
   },
   "packageFolders": {
@@ -453,11 +476,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj",
       "projectName": "TTWS_Api_DotNet6_Final",
       "projectPath": "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj",
       "packagesPath": "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_DotNet6_Final\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj",
+      "projectName": "TTWS_Api_DotNet6_Final",
+      "projectPath": "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final.csproj",
+      "packagesPath": "C:\\Users\\nebojsa.marjanovic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nebojsa.marjanovic\\source\\repos\\TTWS_Api_DotNet6_Final\\TTWS_Api_DotNet6_Final\\obj\\",
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -476,11 +507,15 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+<<<<<<< HEAD
           "projectReferences": {
             "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_Dotnet6_BusinessLogic\\TTWS_Api_Dotnet6_BusinessLogic.csproj": {
               "projectPath": "C:\\Users\\nebojsa.marjanovic\\Desktop\\TTWS_API-master\\TTWS_Api_Dotnet6_BusinessLogic\\TTWS_Api_Dotnet6_BusinessLogic.csproj"
             }
           }
+=======
+          "projectReferences": {}
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
         }
       },
       "warningProperties": {
@@ -493,10 +528,13 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+<<<<<<< HEAD
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
           },
+=======
+>>>>>>> d7914c22f739219ca8eae2dd2f1bd2052cd3a039
           "Polly": {
             "target": "Package",
             "version": "[7.2.3, )"
